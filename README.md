@@ -1,4 +1,4 @@
-# End-2-End Testing For Ayuya-Website
+# End-2-End Manual Testing For Ayuya-Website
 In this E2E Manual Testing test case and bug report i covered :
 
 - UI Testing
