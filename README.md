@@ -1,12 +1,12 @@
-# Ayuya-Website-Test-Case-with-bug-report
-In this Manual Testing test case i cover:
+# End-2-End Testing For Ayuya-Website
+In this E2E Manual Testing test case and bug report i covered :
 
 - UI Testing
 - UX Testing
 - Functionality Testing
 - Edge Case Testing
-- Scenario Testing
-- Bug Report
+- Scenario Testing For ( Guest user, Logged-in user )
+- Bug Report along with Screenshots
 - Live Working Payment Checkout Process
 
   
